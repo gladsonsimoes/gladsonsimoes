@@ -21,3 +21,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo_Java&theme=github_dark" />
 </a>
 
+<img align="center" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
