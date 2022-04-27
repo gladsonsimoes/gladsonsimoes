@@ -15,7 +15,6 @@
 <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
 </p>
   
-  
 
 <h4 align="right">
 <details>
@@ -29,7 +28,6 @@
       height="100em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
          </a>
-  <p align="right">
   <a href="https://github.com/gladsonsimoes"/>
     <img
       align="right"
