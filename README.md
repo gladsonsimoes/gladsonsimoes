@@ -32,7 +32,7 @@
   </a>
 <a href="https://github.com/gladsonsimoes">
     <img
-      align="center"
+      align="left"
       height="100em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
