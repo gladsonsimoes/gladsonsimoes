@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
-</p>
+<p>
   <p align="left"> 
   Recetemente estou cursando programação
   </p>
