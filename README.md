@@ -19,13 +19,13 @@
 
 <h4 align="left">
 <details>
-<summary> Detalhes </summary>
+<summary> Dados </summary>
   
-  <a>
-  <p align="center">
+  <p>
+  <p align="left">
   <a href="https://github.com/gladsonsimoes"/>
     <img
-      align="center"
+      align="left"
       height="100em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight"
     />
