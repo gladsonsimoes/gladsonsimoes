@@ -17,22 +17,23 @@
 </p>
   
 
-<!-- <h4 align="right">
+<!-- <h4 align="left">
 <details>
-<summary> Dados </summary>
+<summary> Dados </summary> 
   
   <p>
-     <p align="right">
-    <a href="https://github.com/gladsonsimoes">
+     <p align="left">
+     <a href="https://github.com/gladsonsimoes"/>
     <img
-      align="right"
+      align="left"
+      height="170em"
+      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+    </p>
+     <a href="https://github.com/gladsonsimoes">
+    <img
+      align="left" 
       height="100em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-  <a href="https://github.com/gladsonsimoes"/>
-    <img
-      align="right"
-      height="100em"
-      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight"
-    />
-  </a>
+         /> -->
     
