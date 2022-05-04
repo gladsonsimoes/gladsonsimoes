@@ -26,14 +26,14 @@
      <a href="https://github.com/gladsonsimoes"/>
     <img
       align="left"
-      height="150em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
     </p>
      <a href="https://github.com/gladsonsimoes">
     <img
       align="left" 
-      height="150em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
          /> 
     
