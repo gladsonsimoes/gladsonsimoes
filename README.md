@@ -10,7 +10,6 @@
   <p align="left">
  Linguagens: Java 
   </p> 
-  https://www.focanamoda.com.br/moletom-java-cafe.html?cor=Branco/Preto
 
 <p align="left">
  <a href="https://www.oracle.com/br/java/"> 
