@@ -7,7 +7,7 @@
     <img
       align="right"
       height="140em"
-      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=tokyonight"
     />
     </p>
      <a href="https://github.com/gladsonsimoes">
