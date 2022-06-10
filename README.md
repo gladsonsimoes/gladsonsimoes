@@ -1,7 +1,7 @@
 <h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá eu me chamo Gladson </h1></img>
 
-## Skills: 
 <img align="left" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+
   <p>
      <p align="right">
      <a href="https://github.com/gladsonsimoes"/>
