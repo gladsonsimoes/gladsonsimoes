@@ -1,4 +1,4 @@
-<h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá seja bem vindo </h1></img>
+<h2 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá seja bem vindo </h1></img>
 
 <p align="left"> 
   Olá eu me chamo Gladson <br/>
