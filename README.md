@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Seja bem vindo(a) 
 <h3 align="center"> 
   Oi tudo bem , eu me chamo Gladson <br/>
-Atualmente estou : <br/>
+Recentemente estou : <br/>
   cursando Técnico de Desenvolvimento de Sistemas <br/>
 <br/> 
   <a>
