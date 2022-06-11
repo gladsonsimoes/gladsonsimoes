@@ -1,5 +1,5 @@
-<h2 align="center"> 👋 Seja bem vindo(a) 
-<h4 align="center"> 
+<h1 align="center"> 👋 Seja bem vindo(a) 
+<h3 align="center"> 
   Olá eu me chamo Gladson <br/>
 No momento estou cursando
   Técnico de Desenvolvimento de Sistemas <br/>
