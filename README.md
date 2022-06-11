@@ -11,6 +11,12 @@ No momento estou cursando
       align="center"
       height="140em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" 
+         <a/>
+   <a href="https://github.com/seu-usuario">
+    <img
+      align="center"
+      height="140em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
  <a/>
     <br/>
   <h4 align="center">
