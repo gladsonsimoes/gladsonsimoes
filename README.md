@@ -1,21 +1,17 @@
-<h2 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá seja bem vindo </h1></img>
+<h2 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem vindo(a) </h2></img>
 
 <p align="left"> 
   Olá eu me chamo Gladson <br/>
 No momento estou cursando
   <strong> Técnico de Desenvolvimento de Sistemas </strong>.<br>
-</p>
-
-<img align="left" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-
-
+</p> 
+   <h4 align="center">
   <a>
-     <a align="right">
-     <a href="https://github.com/gladsonsimoes"/>
-    <img
-      align="right"
+   <img
+      align="center"
       height="140em"
-      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=tokyonight"   
-   /> 
-  
-  
+      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
+ <a/>
+    <br/>
+  <h4 align="center">
+      <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
