@@ -1,6 +1,5 @@
-<h2 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Seja bem vindo(a) </h2></img>
-
-<p align="left"> 
+<h2 align="height"> 👋 Seja bem vindo(a) 
+<h4 align="left"> 
   Olá eu me chamo Gladson <br/>
 No momento estou cursando
   <strong> Técnico de Desenvolvimento de Sistemas </strong>.<br>
@@ -9,12 +8,12 @@ No momento estou cursando
   <a>
    <img
       align="center"
-      height="136em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" 
          <a/>
     <img
       align="center"
-      height="133em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
  <a/>
     <br/>
