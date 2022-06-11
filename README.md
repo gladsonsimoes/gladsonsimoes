@@ -14,7 +14,7 @@ No momento estou cursando
          <a/>
     <img
       align="center"
-      height="135em"
+      height="132em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
  <a/>
     <br/>
