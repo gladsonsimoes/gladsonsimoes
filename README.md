@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Seja bem vindo(a) 
 <h3 align="center"> 
   Oi tudo bem , eu me chamo Gladson <br/>
-Atualmente estou cursando
-  Técnico de Desenvolvimento de Sistemas <br/>
+Atualmente estou : <br/>
+  cursando Técnico de Desenvolvimento de Sistemas <br/>
 <br/> 
   <a>
    <img
