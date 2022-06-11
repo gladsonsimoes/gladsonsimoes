@@ -11,11 +11,11 @@ No momento estou cursando
       height="145em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=pt-br" 
          <a/>
-    <img
+<!--    <img
       align="center"
       height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
- <a/>
+ <a/> -->
     <br/>
   <h4 align="center">
       <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
