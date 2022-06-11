@@ -1,5 +1,10 @@
-<h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá eu me chamo Gladson </h1></img>
+<h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá seja bem vindo </h1></img>
 
+<p align="left"> 
+  Olá eu me chamo Gladson
+ 
+  No momento estou cursando Técnico de Desenvolvimento de Sistemas , no Senai.
+</p>
 
 <img align="left" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
 
@@ -12,11 +17,5 @@
       height="140em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=tokyonight"   
    /> 
- 
-      
-<!--  <p>
- <h4 align="left">
-  <details>
-  <summary> Dados </summary>
   
   
