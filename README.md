@@ -10,7 +10,7 @@ No momento estou cursando
    <img
       align="center"
       height="140em"
-      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=great-gatsby&locale=pt-br" 
  <a/>
     <br/>
   <h4 align="center">
