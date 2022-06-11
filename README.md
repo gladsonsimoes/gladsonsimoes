@@ -1,9 +1,9 @@
 <h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá seja bem vindo </h1></img>
 
 <p align="left"> 
-  Olá eu me chamo Gladson
-  No momento estou cursando
-  Técnico de Desenvolvimento de Sistemas , no Senai.
+  Olá eu me chamo Gladson <br/>
+No momento estou cursando
+  <strong> Técnico de Desenvolvimento de Sistemas </strong>.<br>
 </p>
 
 <img align="left" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
