@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá eu me chamo Gladson
- 
-  No momento estou cursando Técnico de Desenvolvimento de Sistemas , no Senai.
+  No momento estou cursando
+  Técnico de Desenvolvimento de Sistemas , no Senai.
 </p>
 
 <img align="left" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
