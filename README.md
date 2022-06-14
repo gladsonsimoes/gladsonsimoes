@@ -1,3 +1,4 @@
+<br/>
 <h2 align="center"> 👋 bem vindo(a) 
 <h3 align="center"> 
   Oi tudo bem 😄 eu me chamo Gladson , estou: <br> cursando Técnico de Desenvolvimento de Sistemas <br>
@@ -11,3 +12,5 @@
     <br/>
     <br/>
       <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+
+<br/>
