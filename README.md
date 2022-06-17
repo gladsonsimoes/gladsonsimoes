@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 bem vindo(a) 
 <h3 align="center"> 
-  Oi tudo bem 😄 eu me chamo Gladson , tenho 19 anos , recentemente estou: <br> cursando Técnico de Desenvolvimento de Sistemas <br>
+  Oi tudo bem 😄 eu me chamo Gladson , recentemente estou: <br> cursando Técnico de Desenvolvimento de Sistemas <br>
 <br/> 
   <a>
       <img 
