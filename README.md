@@ -3,18 +3,15 @@
   Oi tudo bem 😄 eu me chamo Gladson , recentemente estou: <br> cursando Técnico de Desenvolvimento de Sistemas <br> no Senai - Vitória-ES <br>
 <br/> 
   <a>
-      <img 
-           
-           align="center"
-           alt="JAVA" height="31" width="40"
-           src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+  <img
+   align="center"
+   alt="JAVA" height="31" width="40"
+   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
      <a/>
 <br>
     <br>
   <a>
-    <a href="https://www.oracle.com/br/java/"> 
-   <img
-        
+   <img  
       align="center"
       height="140em"
       src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&locale=pt-br" 
@@ -24,8 +21,3 @@
       height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=gotham&hide_border=true"
       <a/>
-
-
-<h4 align="center">
-<details>
-<summary> Mais </summary>
