@@ -1,5 +1,5 @@
 ## Olá , Seja bem vindo 👋
 
-#### Sou Técnico em Desenvolvimento de Sistemas  
+#### Sou Técnico em Desenvolvimento de Sistemas 
 
-- ⚙️ Tenho conhecimento :  `java` ,`php`, `js`, `html`, `css`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&theme=dark)
