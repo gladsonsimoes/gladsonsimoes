@@ -1,5 +1,5 @@
 ## Olá , Seja bem vindo 👋
 
-#### Desenvolvedor web back-end 
+#### Sou Técnico em Desenvolvimento de Sistemas  
 
-- ⚙️ Eu uso: `php`, `js`, `html`, `css`
+- ⚙️ Tenho conhecimento :  `java` ,`php`, `js`, `html`, `css`
